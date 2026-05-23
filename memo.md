@@ -1,0 +1,1 @@
+embassy_executor::task: proc macro server error: Cannot create expander for /home/peluviini/illyriallaillalla/ch32x035-rs/target/debug/deps/libembassy_executor_macros-7062b50a8b3e07cb.so: mismatched ABI expected: `rustc 1.93.1 (01f6ddf75 2026-02-11)`, got `rustc 1.95.0 (59807616e 2026-04-14)`

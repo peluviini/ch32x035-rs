@@ -1,0 +1,2 @@
+
+wchisp flash firmware.bin
